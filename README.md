@@ -1,2 +1,19 @@
 # australian_rainfall_spark
-Analysis of Australian Rainfall On Which Australian Regions and Weather Components Do We Have to Focus to Predict and Improve The Rainfall Levels
+
+Analysis of australian rainfall on which Australian regions and weather components we do have to focus to predict and improve the rainfall levels
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
+
+```bash
+python3 -m venv env
+source env/bin/activate
+pip3 install -r requirements.txt
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
