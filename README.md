@@ -1,6 +1,6 @@
 # australian_rainfall_spark
 
-Analysis of australian rainfall on which Australian regions and weather components we do have to focus to predict and improve the rainfall levels
+Analysis of Australian rainfall between 2007 and 2017 on which Australian regions and weather components we do have to focus to predict and improve the rainfall levels.
 
 ## Installation
 
