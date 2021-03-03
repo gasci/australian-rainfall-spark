@@ -1,4 +1,4 @@
-# australian_rainfall_spark
+# australian-rainfall-spark
 
 Analysis of Australian rainfall between 2007 and 2017 on which Australian regions and weather components we do have to focus to predict and improve the rainfall levels.
 
