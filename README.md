@@ -2,8 +2,8 @@
 
 Analysis of Australian rainfall between 2007 and 2017 on which Australian regions and weather components we do have to focus to predict and improve the rainfall levels.
 
-1. Read presentation.pdf file
-2. Check notebook.ipynb for code reference
+1. Read ```presentation.pdf``` file
+2. Check ```notebook.ipynb``` for code reference
 
 ## Installation
 
